@@ -1,0 +1,14 @@
+A.
+
+  a) 2, since datas are already sordted
+
+  b) 5, high number of insert, So un-sorted array would be the best option
+
+  c) 3, because, equal amount of insertion and search
+
+  d) 4, a lot of search so unsorted array-list would be best
+
+B.
+   each character holds 8 bits, but with Huffman coding each character holds 2 bits. So if the length of DNA is x, then 8x for original size, 2x for compressed size. Finally compresion ratio would be 4.
+
+C.

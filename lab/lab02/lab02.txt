@@ -1,0 +1,6 @@
+//
+first, I made simple methods in Card.java for ADT and implement to MyCard.java.
+Using for loop in initialize method, I create full Deck of cards,
+and in drawRandomCard method, computer choose random number to pick an index of list that I made, and return with string value.
+In main method I made instantiation to create new object that I can test codes.
+and call drawRandomCard method in system.out.print method to see it works well or not. 

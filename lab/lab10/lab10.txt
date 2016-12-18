@@ -1,0 +1,10 @@
+C343 / Summer 2016, lab10, Jaemin Jung, jungjaem
+
+(code R) {
+   choose one of vertice that is not visited list
+   go to next vertice and add to visited list
+   if visited list size is equal to number of vertices, exit
+   recursive (code nextVertice)
+}
+
+it will take O(V + E).

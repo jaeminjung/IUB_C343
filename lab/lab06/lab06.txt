@@ -1,0 +1,17 @@
+A.
+
+  a) 2, since datas are already sordted
+
+  b) 1, high number of insert, So linked list would be the best option
+
+  c) 3, because, equal amount of insertion and search
+
+  d) 5, a lot of search so BST  would be best
+
+B.
+   all characters has 2 bits so 50*2 + 35*2 + 10*2 + 5* 2 which needs 200 bits for un compressed-size.
+   however, with Huffman coding, A is for 1 bit,  T is for 2bit, C if for 3 bit, G is for 3 bits. To calculate this, 50*1 + 35*2 + 10*3 + 5*3 which needs 165 bits.
+   finaly, compression ratio would be 200/165 which is about 1.21
+ 
+C.
+   bascially, i used algoritm given from lab assignment, scan a local text file and compare two strings to get a edit distance.

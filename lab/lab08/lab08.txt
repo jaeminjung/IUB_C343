@@ -1,0 +1,2 @@
+for this lab assignment, I created hashtable to store text file.
+scan all strings, and store each string with the line number in a arraylist.

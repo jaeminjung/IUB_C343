@@ -1,0 +1,2 @@
+in the main method, we decalre some variables and generate random DNA sequence with for loop.
+each loop, we add a character into empty string 20 times.

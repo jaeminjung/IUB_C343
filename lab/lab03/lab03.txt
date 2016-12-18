@@ -1,0 +1,3 @@
+for this lab assignment, i create tweet.java and tweet2.java.
+tweet.java is implemented by tweet2.java.
+In tweet2.java, I created some methods. And in tweet.java, i put actual codes for running. In main method, i created tweet instance for testing codes.

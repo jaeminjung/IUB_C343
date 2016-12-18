@@ -1,0 +1,4 @@
+
+C343 / Summer 2016, lab Mini-Assignments 11, Jaemin Jung, jungjaem
+
+following the pseudocode, I wrote mstPrim() method for solving minimum cost spanning tree.
