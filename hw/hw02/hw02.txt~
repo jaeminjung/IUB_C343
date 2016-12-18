@@ -1,0 +1,12 @@
+C343 / summer 2016 / Homework02 / Jaemin Jung / jungjaem
+
+a. big-Theta(2)
+b. big-Theta(n^2)
+c. big-Theta(n^2)
+d. big-Theta( (n-1) * (n!) )
+e. big-Theta( n * log(n) )
+f. big-Theta( log(n) * n)
+g. Random -> c
+   sort -> nlog(n)
+   big-Theta( n * n * c * nlog(n) )
+h. big-Theta( n * ((n-1) / 2))

@@ -1,0 +1,27 @@
+3.3
+bigger than input size 10,
+ 2, log3 (x) , log2 (x) , x^(2/3) , 20x, 4x^2, 3^x,  x!
+
+3.8
+ (a)
+ (b)
+ (c)
+
+4.1
+     List.moveToPos(2);
+     List.getValue();  //check current position value is 15 or not, if it is.
+     List.remove();
+
+4.11
+ (a) n > 13.33333
+     so when number of elements is greater and equal than 14
+ (b) n > 10
+     when number of elements is greater and equal than 11     
+ (c) n > 6
+     when number of elements is greater and equal than 7
+ (d) n > 35.5555
+     when number of elements is greater and equal than 36
+
+
+
+for TweetCollection, I made more method in Tweet class which can read text data, from web and store these data to arraylist in Tweet class. So that we initiated an object in TweetColeection, and call this method to store data in arraylist. 

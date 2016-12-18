@@ -1,0 +1,19 @@
+C343 / summer 2016 / Homework02 / Jaemin Jung / jungjaem
+
+a. big-Theta(2)
+b. big-Theta(n^2)
+c. big-Theta(n^2)
+d. big-Theta( (n-1) * (n!) )
+e. big-Theta( n * log(n) )
+f. big-Theta( log(n) * n)
+g. Random -> c
+   sort -> nlog(n)
+   big-Theta( n * n * c * nlog(n) )
+h. big-Theta( n * ((n-1) / 2))
+
+
+1. an ADT for a two-dimensional array of integers unlike with one-dimensional array, it has rows and column. So compare with one-dimensional array, we need to add one more of index for element so that it works correctly.
+for example, one dimensional array looks like : array[size] ,
+however, for two dimensional array looks like : 2d-array[row_size][column_size]
+for all operation, we need to include one more of index for column.
+when we need to insert or delete or get  a new integer, we need to have row index and column index, and process the codes.

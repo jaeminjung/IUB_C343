@@ -1,0 +1,13 @@
+C343 / Summer 2016, Homework 08, Jaemin Jung, jungjaem
+
+a. B - C - A - E - F - D
+
+b. 
+   level0    level1   level2
+                       A
+              C   
+
+    B                  D(connected with C and F)
+
+
+              F       E

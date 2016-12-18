@@ -1,0 +1,17 @@
+
+7.18
+ (a) Find the minimum value.
+      - go through all elements once, and store the minimum value, it will take theta(n).
+ (b) Find the maximum value.
+     - same with a, go through all elements, and store maximum value, it will take theta(n).
+ (c) Compute the arithmetic mean.
+     - go through all elements, store the value of sum, and count the elements, and sum divided by the count. it will take theta(n).
+ (d) Find the median.
+     - list need to be sorted and then take out median value.
+       it will take theta(n^2).
+ (e) Find the mode.
+    - use counting sort so that we can find the mode, theta(n +k).
+
+B.2
+
+  - i would say when k is less than n, it would be more efficient, because when we store value of number of counting, it will save more time.

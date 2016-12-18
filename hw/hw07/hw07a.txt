@@ -1,0 +1,37 @@
+C343/ Summer 2016, Homework07 Task A, Jaemin Jung, jungjaem
+
+Team members :
+Lu Liu, liulu
+Brad Jones, bradjone
+Mohan Qian, mohqian
+
+
+9.10
+  transpose(value) {
+  		   if( find(value) ) {
+		       swap;
+		    }
+		   else { add(value) };
+	 }
+
+9.13
+	(a) no, there is a chance to K is larger than n^2, then hash table is out of range
+	(b) yes, but it is bad hash function, since all values are to the same location 
+	(c) no, it wont cover all elements to store
+	(d) yes, if K is larger than n
+
+9.14
+
+ slot  value
+  0     
+  1
+  2    9 
+  3     3
+  4     2
+  5    12
+  6    
+
+slot 0,1  will be 1/7
+slot 6, will be 5/7
+  
+    

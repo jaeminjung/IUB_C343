@@ -1,0 +1,16 @@
+
+11.9
+	the reason why is that Dijkstra's algorithm search from one node
+	and extend to around nodes finding shortest path. on the other hand, compared with other Algorithm, such as Floyd search from every node to every other nodes
+
+
+11.10
+
+	1   2   3   4   5   6
+  init inf inf inf  0  inf inf
+   4   20   5  inf  0   11  10
+   2   15   5   8   0   11  10
+   3   15   5   8   0   11  10
+   6   12   5   8   0   11  10
+   5   12   5   8   0   11  10
+   1   12   5   8   0   11  10

@@ -1,0 +1,7 @@
+For this homework, I used two methods.
+First one is to generate Random DNA sequence from lab01.
+Using for loop, make two random DNA sequence.
+Secondly make a method that count hamming distance bewteen two random DNAs.
+This method needs to have two string which are two random DNAs.
+And using if statement in for loop, we compare each substring of them with equals method.
+and return integer for hamming distance number.

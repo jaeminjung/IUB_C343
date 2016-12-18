@@ -1,0 +1,7 @@
+
+my method "getNeighbors()" works great. it go through all Nodes, and find out distance less than r.
+it has helper function that called calculateD, it will calcuate the distance between node and dataG, and return the
+boolean true if it is less than r.
+
+if I run this in my laptop, it works fine. However somehow in the putty, putty doesnt let me compile KDtree.java file.
+errors with to change type E value to int. 

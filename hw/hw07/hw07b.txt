@@ -1,0 +1,38 @@
+C343 / Summer 2016, Homework 07 Task B, Jaemin Jung, jungjaem
+
+Team members :
+Lu Liu, liulu
+Brad Jones, bradjone
+Mohan Qian, mohqian
+
+mplementation
+1. Do keys have to be inserted in a certain order?
+   No, keys do not have to be inserted in a certain order. Key's can be inserted in any order.
+
+2. As they are different, can we still compare key's with pointers and value with "value" in a linked list?
+   Yes, we can use the similarity of linked list and hashing to understand hashing. In a linked list, each address has a pointer, and in a hash table, each value has a key.
+   So it is easy to understand hashing if you think hash table is a "collection of linked list".
+
+Data Types and Structures
+3. What types of keys and values can stored in a hash table array?
+   Pretty much any data type can be used as a key or values. Integers are typically used as a key for hash tables, but data types such as strings can be used as keys as well.
+
+4. Can this table be stored as a linked list or stack?
+   A hash table can be stored inside a linked list. You can't store a hash table as a stack.
+
+Hashing
+5. Is there a hash function that only works for searches but not insertions?
+   No, by definition a hash function has to map all possible key values to a slot in the hash table. Therefore, a hash function has to work for insertions.
+
+6. Is there a perfect function for hashing? (Perfect means there is no conflict when we do open hashing)
+   Yes, there is a perfect function for hashing. However, it is almost impossible to find and implement.
+
+7. What are the differences between open and closed hashing?
+   The difference between open and closed hashing is that when a collision occurs in open hashing, the collision is stored outside the table
+   while with closed hashing, the colliding record is moved to another slot in the table.
+
+Time complexity
+8. Is there any method to speed up this dictionary?
+   No, you cannot speed up this dictionary any faster. Insertions and searches are based off of n and k so you can't speed it up any more.
+
+
